@@ -22,9 +22,9 @@
 
 <div align="center">
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://joysoniiee-Customer-Churn-Prediction-Dashboard.streamlit.app)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://customer-churn-dashboard4-pq6wsp6fwdwzmtesrtipo5.streamlit.app/))
 
-**🔗 https://joysoniiee-Customer-Churn-Prediction-dashboard.streamlit.app**
+**🔗 https://customer-churn-dashboard4-pq6wsp6fwdwzmtesrtipo5.streamlit.app/**
 
 </div>
 
@@ -124,7 +124,7 @@ customer-churn-dashboard/
 
 ### Option 1 — Access Online (Recommended, No Setup Required)
 
-1. Click the link: **https://customer-churn-dashboard-pq6wsp6fwdwzmtesrtipo5.streamlit.app/**
+1. Click the link: **https://customer-churn-dashboard4-pq6wsp6fwdwzmtesrtipo5.streamlit.app/**
 2. The dashboard loads in your browser — no login, no installation
 3. Use the **left sidebar** to navigate between the 5 pages
 4. Use the **filters** (Season, Gender, Risk Level) to explore the data interactively
