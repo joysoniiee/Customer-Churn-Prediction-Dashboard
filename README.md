@@ -320,6 +320,6 @@ This project is licensed under the MIT License — see [LICENSE](LICENSE) for de
 <div align="center">
 
 **Made with ❤️ by Joy Muthoni Wanjiru**  
-*JKUAT BSc Data Science — Final Year Project 2024*
+*JKUAT BSc Data Science — Final Year Project 2026*
 
 </div>
