@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://jysoniiee-Customer-Churn-Prediction-Dashboard.streamlit.app)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://joysoniiee-Customer-Churn-Prediction-Dashboard.streamlit.app)
 
 **🔗 https://joysoniiee-Customer-Churn-Prediction-dashboard.streamlit.app**
 
